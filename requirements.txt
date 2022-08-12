@@ -32,7 +32,7 @@ jmespath==0.10.0
 joblib==1.1.0
 lxml==4.7.1
 MarkupSafe==2.0.1
-mediapipe==0.8.4.2
+mediapipe==0.8.10.1
 networkx==2.7.1
 nltk==3.6.7
 numpy==1.20.3
